@@ -2,7 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 ### Hi I'm Hyojin Moon 👋
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
+
+##### 23년 1월 시작한 블로그에 꾸준히 개발 블로그를 작성하며 끊임없이 학습하고 지식을 습득하는 저의 성장 과정을 기록해두었습니다.
+##### 새로운 도전을 만나면 적극적으로 임하며, 학습하고 적용하여 자기 개발에 노력하고자 합니다.
+##### 여러 다양한 경험을 소중하게 여기며, 어떠한 상황에 놓였을 경우 문제를 해결하는 과정을 통해 깨달음을 얻는 것을 중요하게 생각합니다.
+
+<br/><br/><br/>
 
 #### 🙋🏻‍♀️ About Me
 | <center>📄Portfolio </center> | <center>✏️Coding Blog</center> |
