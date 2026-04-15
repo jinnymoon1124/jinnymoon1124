@@ -4,10 +4,9 @@
 
 <div align="center">
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinnymoon1124&count_bg=%236366F1&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/_-33eeb5fe53f4801c87cfda5405dc6cf0)
   [![Blog](https://img.shields.io/badge/Tech%20Blog-jinnycoding-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://jinnycoding.tistory.com)
   [![GitHub](https://img.shields.io/badge/GitHub-jinnymoon1124-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jinnymoon1124)
-
 </div>
 
 <br/>
